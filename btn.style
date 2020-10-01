@@ -1,0 +1,27 @@
+.registr-btn {
+        font-family: 'Roboto', sans-serif;
+        padding: 12px 20px;
+        margin: 10px 0;
+        display: inline-block;
+        background: #42B72A;
+        border-radius: 4px;
+        box-sizing: border-box;
+        color: white;
+        border: hidden;
+    }
+
+
+    
+    .connection-btn {
+        font-family: 'Roboto', sans-serif;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 10px 0;
+        display: inline-block;
+        background: #1877F2;
+        border-radius: 4px;
+        box-sizing: border-box;
+        color: white;
+        text-align: center;
+        border: hidden;
+    }
